@@ -2,3 +2,4 @@ gooey
 argparse
 srt
 python-dateutil
+babel
